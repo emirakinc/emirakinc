@@ -38,7 +38,7 @@ Skilled in <b>Unity Multiplayer</b> (Netcode for GameObjects, Relay, Lobby) to b
 ## 📌 Featured Projects
 
 📌 [**Serve The Cups**](https://store.steampowered.com/app/2688030/Serve_The_Cups/)  
-*A multiplayer café management game released on Steam.*
+*A multiplayer café management game coming soon on Steam.*
 
 
 👉 **See more:** [My Repositories](https://github.com/emirakinc?tab=repositories)
