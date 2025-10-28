@@ -8,7 +8,8 @@
 <p align="center">
 I’m a passionate game developer with 3+ years of experience learning and building with Unity and C#.  
 I graduated with a degree in <b>Digital Game Design</b>, and my goal is to create fun, unique, and memorable experiences for players.  
-Skilled in <b>Unity Multiplayer</b> (Netcode for GameObjects, Relay, Lobby) to build connected, scalable experiences.
+Skilled in <b>Unity Multiplayer</b> (Netcode for GameObjects, Relay, Lobby) to build connected, scalable experiences.  
+Also experienced in <b>Hyper-Casual</b> and <b>Playable Ad</b> production, with a strong understanding of fast prototyping, optimization, and player engagement loops.
 </p>
 
 ---
@@ -17,6 +18,7 @@ Skilled in <b>Unity Multiplayer</b> (Netcode for GameObjects, Relay, Lobby) to b
 ✅ B.A. in **Digital Game Design**  
 ✅ Experienced in **Unity**, **C#**, **OOP**, **Design Patterns**, and **SOLID** principles  
 ✅ Skilled in **Unity Multiplayer** workflows (NGO, Relay, Lobby, matchmaking systems)  
+✅ Hands-on experience in **Hyper-Casual** and **Playable** development pipelines  
 ✅ Building visually rich and optimized games using **URP**  
 ✅ Experience in **WebGL** and **mobile** development  
 ✅ A strong team player with a focus on innovation and creativity  
@@ -40,6 +42,7 @@ Skilled in <b>Unity Multiplayer</b> (Netcode for GameObjects, Relay, Lobby) to b
 📌 [**Serve The Cups**](https://store.steampowered.com/app/2688030/Serve_The_Cups/)  
 *A multiplayer café management game coming soon on Steam.*
 
+💡 Other prototypes include **Hyper-Casual** and **Playable Ad** style experiences designed for rapid iteration and polished user interaction.
 
 👉 **See more:** [My Repositories](https://github.com/emirakinc?tab=repositories)
 
